@@ -77,3 +77,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
+</div>

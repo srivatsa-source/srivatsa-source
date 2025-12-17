@@ -1,24 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=25&pause=1000&color=9EFEFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+SR+Ivatsa;Founder+of+Build-Ora;SDE+Intern+%40+Garuda%2FEVAPSolar;Building+Games+%26+Cyberdecks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=9EFEFF&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+SR+Ivatsa;Founder+of+Build-Ora;Level+20+SDE+Intern;Building+Cyberdecks+%26+Web+Games" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=srivatsa-source&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="srivatsa-source trophies" />
+  </a>
 </div>
 
 <div align="center">
-  <h3>👾 Level 20 Developer | BCA Student | Visual Computing Enthusiast 👾</h3>
+  <h3>👾 Visual Computing Enthusiast | BCA Student | Hardware Modder 👾</h3>
 </div>
 
----
+<br/>
 
 <div align="center">
   I am a <strong>V Semester BCA Student</strong> at <strong>The National College, Jayanagar</strong>. <br/>
-  Currently working as an <strong>SDE Intern</strong> and building <strong>Build-Ora</strong>.
+  Currently working as an <strong>SDE Intern</strong> and building the <strong>Build-Ora</strong> community.
   <br/><br/>
-  🔭 <strong>Currently working on:</strong> Windows 95 Portfolio & AI Cat Chatbot <br/>
-  🎲 <strong>Game Dev:</strong> Building "One-Hit Samurai" (Pixel PVP) <br/>
-  ⚡ <strong>Fun Fact:</strong> Building a custom Cyberdeck with a Pi & Projector
+  🔭 <strong>Current Quest:</strong> Windows 95 Portfolio & AI Cat Chatbot <br/>
+  ⚔️ <strong>Main Project:</strong> "One-Hit Samurai" (Pixel PVP Game) <br/>
+  ⚡ <strong>Hardware:</strong> Building a custom Cyberdeck (Pi + Projector)
 </div>
 
 <br/>
@@ -32,13 +34,13 @@
 
 <br/>
 
-<h3 align="center">🧪 Current Experiments</h3>
+<h3 align="center">🧪 Active Experiments</h3>
 <div align="center">
   <table align="center">
     <tr>
       <th>Project</th>
       <th>Status</th>
-      <th>Description</th>
+      <th>Mission Brief</th>
     </tr>
     <tr>
       <td><strong>DockDesk</strong></td>
@@ -60,15 +62,14 @@
 
 <br/>
 
-<h3 align="center">📊 Player Stats</h3>
+<h3 align="center">🌆 The Code City</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github.com/srivatsa-source/srivatsa-source/blob/metrics/metrics.plugin.isocalendar.svg" alt="Isometric City" width="100%">
 </div>
 
-<h3 align="center">🐍 Commit History</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/srivatsa-source/srivatsa-source/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <br/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b4/e0/9a/b4e09ae68a478b431e5c3e4be328704d.gif" width="100%" style="border-radius: 0px 0px 10px 10px;" />
+<img src="https://pin.it/1lrTsLTuC" width="100%" style="border-radius: 0px 0px 10px 10px;" />
 
 <br/><br/>
 
@@ -109,7 +109,7 @@
 <h2>🌇 `LOFI_MODE.exe`</h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f16d41c2-7d4a-4f49-8e48-c78b017bd23a" width="100%" style="border-radius: 10px; border: 2px solid #FF6AC1;">
+  <img src="https://i.gifer.com/xK.gif" width="100%" style="border-radius: 10px; border: 2px solid #FF6AC1;">
   
   <br/>
   <code>[SYSTEM_STATUS]: OFFLINE // VIBES: CHILL // DECK: POWERING_DOWN...</code>
@@ -118,6 +118,6 @@
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=FF6AC1&style=flat-square&label=VISITORS" />
 </div>
 
-<img src="https://media.tenor.com/images/805a873233f286696b76a8247983e659/tenor.gif" width="100%" style="border-radius: 10px 10px 0px 0px; opacity: 0.8;" />
+<img src="https://pin.it/1lrTsLTuC" width="100%" style="border-radius: 10px 10px 0px 0px; opacity: 0.8;" />
 
 </div>

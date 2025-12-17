@@ -4,14 +4,14 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%96%BA+Level+20+Developer;%E2%96%BA+Founder+of+Build-Ora;%E2%96%BA+Building+Games+%26+Cyberdecks;%E2%96%BA+Visual+Computing+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%96%BA+Level+20+Developer;%E2%96%BA+Founder+of+Build-Ora;%E2%96%BA+Building+AI_Agents&Games+%26+Cyberdecks;%E2%96%BA+AI+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <h3> SYSTEM_INFO.exe</h3>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=500&pause=800&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=>+INITIALIZING+USER_BIO.v4...;>+ID:+SDE+Intern+%40+Solar+Tech+Startup;>+EDU:+V+Semester+BCA+%7C+National+College;>+MISSION:+Organizing+24hr+Hackathon+(Jan+'26);>+SPECS:+WebGL+%7C+Three.js+%7C+HW+Modding;>+PROCESS+COMPLETE." alt="System Info Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=500&pause=800&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=>+INITIALIZING+USER_BIO.v4...;>+ID:+SDE+Intern+%40+EvapSolar+Tech+Startup;>+EDU:+V+Semester+BCA+%7C+National+College;>+MISSION:+Organizing+24hr+Hackathon+(Jan+'26);>+SPECS:+WebGL+%7C+Three.js+%7C+HW+Modding;>+PROCESS+COMPLETE." alt="System Info Animation" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">

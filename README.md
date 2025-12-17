@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=9EFEFF&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+SR+Ivatsa;Founder+of+Build-Ora;Level+20+SDE+Intern;Building+Cyberdecks+%26+Web+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=9EFEFF&center=true&vCenter=true&width=1000&height=50&lines=Hi,+I'm+SR+Ivatsa;Founder+of+Build-Ora;Level+20+SDE+Intern;Building+Cyberdecks+%26+Web+Games" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 
 <h3 align="center">🌆 Contribution Skyline</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
 </div>
 
 <div align="center">

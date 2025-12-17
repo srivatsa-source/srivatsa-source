@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10&height=200&section=header&text=SRIVATSA-SOURCE&fontSize=70&fontColor=9EFEFF&animation=fadeIn&fontAlignY=35&desc=SYSTEM_READY%20%2F%2F%20INITIALIZING_NEURAL_LINK...&descSize=15&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://i.pinimg.com/originals/b4/e0/9a/b4e09ae68a478b431e5c3e4be328704d.gif" width="100%" style="border-radius: 0px 0px 10px 10px;" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=1000&color=FF6AC1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%E2%96%BA+Level+20+Dev+%7C+Founder+of+Build-Ora;%E2%96%BA+SDE+Intern+%40+Solar+Tech;%E2%96%BA+Building+Games+%26+Cyberdecks;%E2%96%BA+Visual+Computing+Enthusiast" alt="Typing SVG" />
@@ -100,13 +102,14 @@
   <code>[SYSTEM_MSG]: Welcome to the grid, Samurai.</code>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=flat-square&label=NETRUNNERS+VISITED" />
+</div>
+
+<br/>
+
 <h2>🌇 `LOFI_MODE.exe`</h2>
 
-![Pixelated_Lofi_Video_Generated (1)](https://github.com/user-attachments/assets/f16d41c2-7d4a-4f49-8e48-c78b017bd23a)
-
-
 <div align="center">
-  
+  <img src="https://github.com/user-attachments/assets/f16d41c2-7d4a-4f49-8e48-c78b017bd23a" width="100%" style="border-radius: 10px; border: 2px solid #FF6AC1;">
   
   <br/>
   <code>[SYSTEM_STATUS]: OFFLINE // VIBES: CHILL // DECK: POWERING_DOWN...</code>
@@ -115,6 +118,6 @@
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=FF6AC1&style=flat-square&label=VISITORS" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,0&height=100&section=footer" width="100%"/>
+<img src="https://media.tenor.com/images/805a873233f286696b76a8247983e659/tenor.gif" width="100%" style="border-radius: 10px 10px 0px 0px; opacity: 0.8;" />
 
 </div>

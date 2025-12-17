@@ -1,140 +1,112 @@
-<!-- ==================== HEADER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
-<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Header Banner" />
-<!-- ===================================================================================== -->
-
 <div align="center">
 
-<!-- Glitch-style Typing SVG -->
+<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Header Banner" />
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%96%BA+Level+20+Developer;%E2%96%BA+Founder+of+Build-Ora;%E2%96%BA+Building+Games+%26+Cyberdecks;%E2%96%BA+Visual+Computing+Enthusiast" alt="Typing SVG" />
 </a>
 
----
+<br/>
 
-## 🌃 `SYSTEM_INFO.exe`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ ⚡ STATUS      → SDE Intern @ Solar Tech Startup       │
-│ 📚 EDUCATION   → V Semester BCA | National College      │
-│ 🎯 MISSION     → Organizing 24hr Hackathon (Jan 2026)  │
-│ 🔧 PROTOCOL    → WebGL | Three.js | Hardware Modding   │
-│ 🟢 ONLINE      → Active & Building                      │
-└─────────────────────────────────────────────────────────┘
-```
+<h3>🌃 SYSTEM_INFO.exe</h3>
+<pre align="center">
+███████████████████████████████████████████████████████████████
+█ ⚡ STATUS      → SDE Intern @ Solar Tech Startup            █
+█ 📚 EDUCATION   → V Semester BCA | National College           █
+█ 🎯 MISSION     → Organizing 24hr Hackathon (Jan 2026)       █
+█ 🔧 PROTOCOL    → WebGL | Three.js | Hardware Modding        █
+█ 🟢 ONLINE      → Active & Building                          █
+███████████████████████████████████████████████████████████████
+</pre>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
----
+<br/>
 
-## 🕹️ `ACTIVE_PROJECTS.db`
+<h3>🕹️ ACTIVE_PROJECTS.db</h3>
 
-### 📱 **DockDesk**
-```
+<h3>📱 DockDesk</h3>
+<pre align="center">
 █▀▄ █▀█ █▀▀ █▄▀ █▀▄ █▀▀ █▀ █▄▀
 █▄▀ █▄█ █▄▄ █ █ █▄▀ ██▄ ▄█ █ █
-```
-![Status](https://img.shields.io/badge/STATUS-IN_DEV-yellow?style=flat-square)
+</pre>
+<p>AI Agent mobile app for remote programming & server management.</p>
+<p><code>React Native</code> <code>Node.js</code> <code>AI APIs</code></p>
 
-AI Agent mobile app for remote programming & server management.
+<br/>
 
-`React Native` `Node.js` `AI APIs`
-
----
-
-### ⚔️ **One-Hit Samurai**
-```
+<h3>⚔️ One-Hit Samurai</h3>
+<pre align="center">
 █▀█ █▄ █ █▀▀ ▄▄ █ █ █ ▀█▀   █▀ ▄▀█ █▀▄▀█ █ █ █▀█ ▄▀█ █
 █▄█ █ ▀█ ██▄    █▀█ █  █    ▄█ █▀█ █ ▀ █ █▄█ █▀▄ █▀█ █
-```
-![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-9EFEFF?style=flat-square)
+</pre>
+<p>High-stakes pixelated PVP fighter inspired by Nidhogg.</p>
+<p><code>Unity</code> <code>C#</code> <code>Pixel Art</code> <code>Netcode</code></p>
 
-High-stakes pixelated PVP fighter inspired by Nidhogg.
+<br/>
 
-`Unity` `C#` `Pixel Art` `Netcode`
-
----
-
-### 🎥 **Img2Model**
-```
+<h3>🎥 Img2Model</h3>
+<pre align="center">
 █ █▀▄▀█ █▀▀ ▀█ █▀▄▀█ █▀█ █▀▄ █▀▀ █  
 █ █ ▀ █ █▄█ █▄ █ ▀ █ █▄█ █▄▀ ██▄ █▄▄
-```
-![Status](https://img.shields.io/badge/STATUS-RESEARCH-FF6AC1?style=flat-square)
+</pre>
+<p>Video → 3D model conversion using local + cloud AI.</p>
+<p><code>Python</code> <code>ML</code> <code>Blender API</code></p>
 
-Video → 3D model conversion using local + cloud AI.
+<br/>
 
-`Python` `ML` `Blender API`
-
----
-
-### 🖥️ **Custom Cyberdeck**
-```
+<h3>🖥️ Custom Cyberdeck</h3>
+<pre align="center">
 █▀▀ █ █ █▀ ▀█▀ █▀█ █▀▄▀█   █▀▀ █▄█ █▄▄ █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▄▀
 █▄▄ █▄█ ▄█  █  █▄█ █ ▀ █   █▄▄  █  █▄█ ██▄ █▀▄ █▄▀ ██▄ █▄▄ █ █
-```
-![Status](https://img.shields.io/badge/STATUS-HARDWARE_BUILD-orange?style=flat-square)
+</pre>
+<p>Raspberry Pi + Mini Projector portable deck.</p>
+<p><code>RPi</code> <code>Arduino</code> <code>3D Printing</code></p>
 
-Raspberry Pi + Mini Projector portable deck.
+<br/>
 
-`RPi` `Arduino` `3D Printing`
-
----
-
-### 🐱 **Windows95 Portfolio**
-```
+<h3>🐱 Windows95 Portfolio</h3>
+<pre align="center">
 █ █ █ █ █▄ █ █▀▄ █▀█ █ █ █ █▀ █▀█ █▀▀   █▀█ █▀█ █▀█ ▀█▀ █▀▀ █▀█ █   █ █▀█
 ▀▄▀▄▀ █ █ ▀█ █▄▀ █▄█ ▀▄▀▄▀ ▄█ ▀▀█ ▄██   █▀▀ █▄█ █▀▄  █  █▀  █▄█ █▄▄ █ █▄█
-```
-![Status](https://img.shields.io/badge/STATUS-DEPLOYED-success?style=flat-square)
+</pre>
+<p>Windows 95-themed site with AI Cat Chatbot companion.</p>
+<p><code>React</code> <code>Three.js</code> <code>WebGL</code></p>
 
-Windows 95-themed site with AI Cat Chatbot companion.
+<br/>
 
-`React` `Three.js` `WebGL`
-
----
-
-## ⚡ `TECH_STACK.json`
-
+<h3>⚡ TECH_STACK.json</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git,github&perline=7&theme=dark" />
 </p>
 
----
+<br/>
 
-## 📊 `NEURAL_METRICS.sys`
-
+<h3>📊 NEURAL_METRICS.sys</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa-source&theme=tokyonight&hide_border=true&background=0D1117&ring=9EFEFF&fire=FF6AC1&currStreakLabel=9EFEFF" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&text_color=C0CAF5" width="48%" />
 </p>
 
----
+<br/>
 
-## 🏙️ `NIGHT_CITY.render()`
-
+<h3>🏙️ NIGHT_CITY.render()</h3>
 <div align="center">
-
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  💚 SYSTEM STATUS: ONLINE                                ┃
-┃  ⏱️  UPTIME: ∞ | 📡 LATENCY: 12ms                         ┃
-┃  ✅ BUILD-ORA.INIT() → SUCCESS                           ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
+<pre align="center">
+███████████████████████████████████████████████████████████████
+█  💚 SYSTEM STATUS: ONLINE                                   █
+█  ⏱️  UPTIME: ∞ | 📡 LATENCY: 12ms                            █
+█  ✅ BUILD-ORA.INIT() → SUCCESS                              █
+███████████████████████████████████████████████████████████████
+</pre>
 </div>
 
----
-
-## 📡 `CONNECT.link()`
-
+<h3>📡 CONNECT.link()</h3>
 <p align="center">
   <a href="https://github.com/srivatsa-source">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9EFEFF" />
@@ -149,15 +121,9 @@ Windows 95-themed site with AI Cat Chatbot companion.
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6AC1" />
   </a>
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
 </p>
 
-<!-- ==================== FOOTER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
 <img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Footer Banner" />
-<!-- ===================================================================================== -->
-
 </div>

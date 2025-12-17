@@ -70,10 +70,6 @@
 
 <br/>
 
-<h3 align="center">🌆 Contribution Skyline</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
-</div>
 
 <br/>
 <h3 align="center">🌆 Night City Protocol</h3>

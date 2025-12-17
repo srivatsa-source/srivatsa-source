@@ -110,11 +110,11 @@ Windows 95-themed site with AI Cat Chatbot companion.
 
 ---
 
-## 🏙️ `NIGHT_CITY.render()`
+## City scape
 
 <div align="center">
 
-<img src="https://media.tenor.com/3Krv37RlWR8AAAAd/city-cityscape.gif" width="800" />
+<img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
 
 <pre>
 ╔═══════════════════════════════════════════════════════════╗

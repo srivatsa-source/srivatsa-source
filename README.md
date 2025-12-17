@@ -62,11 +62,7 @@
 
 <br/>
 
-<h3 align="center">🌆 The Code City</h3>
-<div align="center">
-  <img src="https://github.com/srivatsa-source/srivatsa-source/blob/metrics/metrics.plugin.isocalendar.svg" alt="Isometric City" width="100%">
-</div>
-
+<h3 align="center">📊 Player Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true" height="180" />
@@ -74,10 +70,12 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-<br/>
+<h3 align="center">🌆 Contribution Skyline</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>

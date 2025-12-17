@@ -102,8 +102,11 @@
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=flat-square&label=NETRUNNERS+VISITED" />
 <h2>🌇 `LOFI_MODE.exe`</h2>
 
+https://github.com/user-attachments/assets/94ee2e33-f1fa-49a8-b395-9f3fe9b17fa2
+
+
 <div align="center">
-  <video src="https://github.com/srivatsa-source/srivatsa-source/raw/main/Pixelated_Lofi_Video_Generated.mp4" width="100%" controls autoplay loop muted></video>
+  
   
   <br/>
   <code>[SYSTEM_STATUS]: OFFLINE // VIBES: CHILL // DECK: POWERING_DOWN...</code>

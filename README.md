@@ -75,6 +75,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa-source&bg_color=0d1117&color=9EFEFF&line=9EFEFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph City">
 </div>
 
+<br/>
+<h3 align="center">🌆 Night City Protocol</h3>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/1e/36/82/1e3682794685d03dc613d9002c91a377.gif" width="100%" style="border-radius: 15px; border: 2px solid #9EFEFF;" alt="Cyberpunk Pixel City">
+  <br/>
+  <p style="font-family: 'Courier New', monospace; color: #9EFEFF; font-size: 12px;">[SYSTEM STATUS: ONLINE] - Welcome to the grid, Samurai.</p>
+</div>
+
 <div align="center">
   <br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

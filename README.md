@@ -100,8 +100,18 @@
   <code>[SYSTEM_MSG]: Welcome to the grid, Samurai.</code>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=flat-square&label=NETRUNNERS+VISITED" />
+<h2>🌇 `LOFI_MODE.exe`</h2>
+
+<div align="center">
+  <video src="https://github.com/srivatsa-source/srivatsa-source/raw/main/Pixelated_Lofi_Video_Generated.mp4" width="100%" controls autoplay loop muted></video>
+  
+  <br/>
+  <code>[SYSTEM_STATUS]: OFFLINE // VIBES: CHILL // DECK: POWERING_DOWN...</code>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=FF6AC1&style=flat-square&label=VISITORS" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,0&height=100&section=footer" width="100%"/>
 
 </div>

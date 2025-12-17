@@ -1,79 +1,152 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=9EFEFF&center=true&vCenter=true&width=900&height=50&lines=Hi,+I'm+SR+Ivatsa;Founder+of+Build-Ora;Level+20+SDE+Intern;Building+Cyberdecks+%26+Pixel+Games" alt="Typing SVG" />
-</div>
+
+<!-- NEON HEADER with Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SRIVATSA-SOURCE&fontSize=60&fontColor=9EFEFF&animation=twinkling&fontAlignY=32&desc=INITIALIZING%20NEURAL%20LINK...&descSize=16&descAlignY=55" width="100%"/>
+
+<!-- Glitch-style Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%96%BA+Level+20+Developer;%E2%96%BA+Founder+of+Build-Ora;%E2%96%BA+Building+Games+%26+Cyberdecks;%E2%96%BA+Visual+Computing+Enthusiast" alt="Typing SVG" />
+</a>
+
+---
+
+## 🌃 `SYSTEM_INFO.exe`
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  STATUS: SDE Intern @ Solar Tech Startup                 ║
+║  EDUCATION: V Semester BCA | National College, Jayanagar ║
+║  MISSION: Organizing 24hr Hackathon (Jan 2026)          ║
+║  PROTOCOL: WebGL | Three.js | Hardware Modding           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+---
+
+## 🕹️ `ACTIVE_PROJECTS.db`
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📱 **DockDesk**
+`[STATUS: IN_DEV]`
+
+AI Agent mobile app for remote programming & server management.
+
+**Tech:** React Native, Node.js, AI APIs
+
+</td>
+<td align="center" width="50%">
+
+### ⚔️ **One-Hit Samurai**
+`[STATUS: PROTOTYPING]`
+
+High-stakes pixelated PVP fighter inspired by Nidhogg.
+
+**Tech:** Unity, Pixel Art, Netcode
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🎥 **Img2Model**
+`[STATUS: RESEARCH]`
+
+Video → 3D model conversion using local + cloud AI.
+
+**Tech:** Python, ML, Blender API
+
+</td>
+<td align="center" width="50%">
+
+### 🖥️ **Custom Cyberdeck**
+`[STATUS: HARDWARE_BUILD]`
+
+Raspberry Pi + Mini Projector portable deck.
+
+**Tech:** RPi, Arduino, 3D Printing
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🐱 **Win95 Portfolio**
+`[STATUS: DEPLOYED]`
+
+Windows 95-themed site with AI Cat Chatbot companion.
+
+**Tech:** React, Three.js, WebGL
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ `TECH_STACK.json`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git,github&perline=7&theme=dark" />
+</p>
+
+---
+
+## 📊 `NEURAL_METRICS.sys`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa-source&theme=tokyonight&hide_border=true&background=0D1117&ring=9EFEFF&fire=FF6AC1&currStreakLabel=9EFEFF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&text_color=C0CAF5" width="48%" />
+</p>
+
+---
+
+## 🏙️ `NIGHT_CITY.render()`
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=srivatsa-source&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="srivatsa-source trophies" />
+  
+<img src="https://media.giphy.com/media/l378jJDkXigVPucfe/giphy.gif" width="800" />
+```diff
+@@                                                           @@
++  [SYSTEM STATUS: ONLINE]                                   +
++  UPTIME: ∞ | LATENCY: 12ms | BUILD-ORA.INIT() → SUCCESS   +
+@@                                                           @@
+```
+
+</div>
+
+---
+
+## 📡 `CONNECT.link()`
+
+<p align="center">
+  <a href="https://github.com/srivatsa-source">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9EFEFF" />
   </a>
-</div>
-
-<div align="center">
-  <h3>👾 Visual Computing Enthusiast | BCA Student | Hardware Modder 👾</h3>
-  <br/>
-  I am a <strong>V Semester BCA Student</strong> at <strong>The National College, Jayanagar</strong>. <br/>
-  Currently working as an <strong>SDE Intern</strong> and building the <strong>Build-Ora</strong> tech community.
-  <br/><br/>
-  🔭 <strong>Current Quest:</strong> Windows 95 Portfolio & AI Cat Chatbot <br/>
-  ⚔️ <strong>Main Project:</strong> "One-Hit Samurai" (Pixel PVP Game) <br/>
-  ⚡ <strong>Fun Fact:</strong> Building a custom Cyberdeck with a Pi & Projector
-</div>
-
-<br/>
-
-<h3 align="center">🛠️ My Inventory</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git&perline=7&theme=dark" />
+  <a href="https://twitter.com/srivatsa-source">
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=9EFEFF" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/srivatsa-source">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9EFEFF" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6AC1" />
+  </a>
+</p>
 
-<br/>
+---
 
-<h3 align="center">🧪 Current Experiments</h3>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th>Project</th>
-      <th>Status</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><strong>DockDesk</strong></td>
-      <td>🚧 <em>In Dev</em></td>
-      <td>An AI Agent mobile app for remote programming.</td>
-    </tr>
-    <tr>
-      <td><strong>One-Hit Samurai</strong></td>
-      <td>🎮 <em>Prototyping</em></td>
-      <td>A high-stakes pixelated PVP fighting game.</td>
-    </tr>
-    <tr>
-      <td><strong>Img2Model</strong></td>
-      <td>🧠 <em>Research</em></td>
-      <td>Converting video to 3D models using local + cloud AI training.</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
-<h3 align="center">📊 Player Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<h3 align="center">🌆 Night City Protocol</h3>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/1e/36/82/1e3682794685d03dc613d9002c91a377.gif" width="100%" style="border-radius: 15px; border: 2px solid #9EFEFF;" alt="Cyberpunk Pixel City Animation">
-  <br/>
-  <p style="font-family: 'Courier New', monospace; color: #9EFEFF; font-size: 12px;">[SYSTEM STATUS: ONLINE] - Welcome to the grid, Samurai.</p>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel divider">
 </div>

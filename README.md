@@ -11,13 +11,13 @@
 
 <h3>🌃 SYSTEM_INFO.exe</h3>
 <pre align="center">
-███████████████████████████████████████████████████████████████
-█ ⚡ STATUS      → SDE Intern @ Solar Tech Startup            █
-█ 📚 EDUCATION   → V Semester BCA | National College           █
-█ 🎯 MISSION     → Organizing 24hr Hackathon (Jan 2026)       █
-█ 🔧 PROTOCOL    → WebGL | Three.js | Hardware Modding        █
-█ 🟢 ONLINE      → Active & Building                          █
-███████████████████████████████████████████████████████████████
+╔═══════════════════════════════════════════════════════════╗
+║  ⚡ STATUS      → SDE Intern @ Solar Tech Startup        ║
+║  📚 EDUCATION   → V Semester BCA | National College      ║
+║  🎯 MISSION     → Organizing 24hr Hackathon (Jan 2026)  ║
+║  🔧 PROTOCOL    → WebGL | Three.js | Hardware Modding   ║
+║  🟢 ONLINE      → Active & Building                      ║
+╚═══════════════════════════════════════════════════════════╝
 </pre>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -98,11 +98,11 @@
 <div align="center">
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
 <pre align="center">
-███████████████████████████████████████████████████████████████
-█  💚 SYSTEM STATUS: ONLINE                                   █
-█  ⏱️  UPTIME: ∞ | 📡 LATENCY: 12ms                            █
-█  ✅ BUILD-ORA.INIT() → SUCCESS                              █
-███████████████████████████████████████████████████████████████
+╔═══════════════════════════════════════════════════════════╗
+║  💚 SYSTEM STATUS: ONLINE                                ║
+║  ⏱️  UPTIME: ∞ | 📡 LATENCY: 12ms                         ║
+║  ✅ BUILD-ORA.INIT() → SUCCESS                           ║
+╚═══════════════════════════════════════════════════════════╝
 </pre>
 </div>
 

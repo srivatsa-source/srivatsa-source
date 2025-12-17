@@ -12,15 +12,14 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I am a **V Semester BCA Student** at **The National College, Jayanagar**, passionate about blending code with visual art. Currently, I am working as an **SDE Intern** on solar-tech projects while building Bangalore's newest tech community.
-
-- 🔭 **Currently working on:** A **Windows 95-themed portfolio** with an AI Cat Chatbot.
-- 🏢 **Community:** Founder of **Build-Ora** (Organizing a 24-hr Hackathon @ RUAS on Jan 17, 2026!).
-- 🌱 **Learning:** **WebGL, Three.js**, and Hardware modding (Cyberdecks).
-- 🎲 **Game Dev:** Building *"One-Hit Samurai"* (A Nidhogg-inspired pixel PVP game).
-- ⚡ **Fun Fact:** I'm building a custom Cyberdeck using a Raspberry Pi and a mini projector.
+<div align="center">
+  I am a <strong>V Semester BCA Student</strong> at <strong>The National College, Jayanagar</strong>. <br/>
+  Currently working as an <strong>SDE Intern</strong> and building <strong>Build-Ora</strong>.
+  <br/><br/>
+  🔭 <strong>Currently working on:</strong> Windows 95 Portfolio & AI Cat Chatbot <br/>
+  🎲 <strong>Game Dev:</strong> Building "One-Hit Samurai" (Pixel PVP) <br/>
+  ⚡ <strong>Fun Fact:</strong> Building a custom Cyberdeck with a Pi & Projector
+</div>
 
 <br/>
 
@@ -34,25 +33,45 @@ I am a **V Semester BCA Student** at **The National College, Jayanagar**, passio
 <br/>
 
 <h3 align="center">🧪 Current Experiments</h3>
-
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **DockDesk** | 🚧 *In Dev* | An AI Agent mobile app for remote programming. |
-| **One-Hit Samurai** | 🎮 *Prototyping* | A high-stakes pixelated PVP fighting game. |
-| **Img2Model** | 🧠 *Research* | Converting video to 3D models using local + cloud AI training. |
+<div align="center">
+  <table align="center">
+    <tr>
+      <th>Project</th>
+      <th>Status</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><strong>DockDesk</strong></td>
+      <td>🚧 <em>In Dev</em></td>
+      <td>AI Agent mobile app for remote programming.</td>
+    </tr>
+    <tr>
+      <td><strong>One-Hit Samurai</strong></td>
+      <td>🎮 <em>Prototyping</em></td>
+      <td>High-stakes pixelated PVP fighting game.</td>
+    </tr>
+    <tr>
+      <td><strong>Img2Model</strong></td>
+      <td>🧠 <em>Research</em></td>
+      <td>Video to 3D models using local + cloud AI.</td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 <h3 align="center">📊 Player Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRIvatsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIvatsa&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <h3 align="center">🐍 Commit History</h3>
 <div align="center">
-  <img src="https://github.com/SRIvatsa/SRIvatsa/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/srivatsa-source/srivatsa-source/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

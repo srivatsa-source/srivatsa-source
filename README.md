@@ -102,7 +102,7 @@
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=flat-square&label=NETRUNNERS+VISITED" />
 <h2>🌇 `LOFI_MODE.exe`</h2>
 
-https://github.com/user-attachments/assets/94ee2e33-f1fa-49a8-b395-9f3fe9b17fa2
+![Pixelated_Lofi_Video_Generated (1)](https://github.com/user-attachments/assets/f16d41c2-7d4a-4f49-8e48-c78b017bd23a)
 
 
 <div align="center">

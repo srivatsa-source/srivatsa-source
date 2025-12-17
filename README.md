@@ -13,14 +13,15 @@
 
 ## 🌃 `SYSTEM_INFO.exe`
 
-<pre>
-╔═══════════════════════════════════════════════════════════╗
-║  STATUS: SDE Intern @ Solar Tech Startup                 ║
-║  EDUCATION: V Semester BCA | National College, Jayanagar ║
-║  MISSION: Organizing 24hr Hackathon (Jan 2026)          ║
-║  PROTOCOL: WebGL | Three.js | Hardware Modding           ║
-╚═══════════════════════════════════════════════════════════╝
-</pre>
+```
+┌─────────────────────────────────────────────────────────┐
+│ ⚡ STATUS      → SDE Intern @ Solar Tech Startup       │
+│ 📚 EDUCATION   → V Semester BCA | National College      │
+│ 🎯 MISSION     → Organizing 24hr Hackathon (Jan 2026)  │
+│ 🔧 PROTOCOL    → WebGL | Three.js | Hardware Modding   │
+│ 🟢 ONLINE      → Active & Building                      │
+└─────────────────────────────────────────────────────────┘
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -32,56 +33,91 @@
 <tr>
 <td align="center" width="50%">
 
+```
+██████   ██████   ██████ ██   ██ 
+██   ██ ██    ██ ██      ██  ██  
+██   ██ ██    ██ ██      █████   
+██   ██ ██    ██ ██      ██  ██  
+██████   ██████   ██████ ██   ██ 
+```
 ### 📱 **DockDesk**
-`[STATUS: IN_DEV]`
+![Status](https://img.shields.io/badge/STATUS-IN_DEV-yellow?style=flat-square)
 
 AI Agent mobile app for remote programming & server management.
 
-**Tech:** React Native, Node.js, AI APIs
+`React Native` `Node.js` `AI APIs`
 
 </td>
 <td align="center" width="50%">
 
+```
+ ██████  ███    ██ ███████ 
+██    ██ ████   ██ ██      
+██    ██ ██ ██  ██ █████   
+██    ██ ██  ██ ██ ██      
+ ██████  ██   ████ ███████ 
+```
 ### ⚔️ **One-Hit Samurai**
-`[STATUS: PROTOTYPING]`
+![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-9EFEFF?style=flat-square)
 
 High-stakes pixelated PVP fighter inspired by Nidhogg.
 
-**Tech:** Unity, Pixel Art, Netcode
+`Unity` `C#` `Pixel Art` `Netcode`
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
+```
+██ ███    ███  ██████  ██████  
+██ ████  ████ ██       ╚════██╗
+██ ██ ████ ██ ██   ███  █████╔╝
+██ ██  ██  ██ ██    ██ ██╔═══╝ 
+██ ██      ██  ██████  ███████╗
+```
 ### 🎥 **Img2Model**
-`[STATUS: RESEARCH]`
+![Status](https://img.shields.io/badge/STATUS-RESEARCH-FF6AC1?style=flat-square)
 
 Video → 3D model conversion using local + cloud AI.
 
-**Tech:** Python, ML, Blender API
+`Python` `ML` `Blender API`
 
 </td>
 <td align="center" width="50%">
 
+```
+ ██████ ██    ██ ██████  ███████ ██████  
+██       ██  ██  ██   ██ ██      ██   ██ 
+██        ████   ██████  █████   ██████  
+██         ██    ██   ██ ██      ██   ██ 
+ ██████    ██    ██████  ███████ ██   ██ 
+```
 ### 🖥️ **Custom Cyberdeck**
-`[STATUS: HARDWARE_BUILD]`
+![Status](https://img.shields.io/badge/STATUS-HARDWARE_BUILD-orange?style=flat-square)
 
 Raspberry Pi + Mini Projector portable deck.
 
-**Tech:** RPi, Arduino, 3D Printing
+`RPi` `Arduino` `3D Printing`
 
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 
+```
+██     ██ ██ ███    ██  █████  ███████ 
+██     ██ ██ ████   ██ ██   ██ ██      
+██  █  ██ ██ ██ ██  ██ ╚════██ ███████ 
+██ ███ ██ ██ ██  ██ ██  █████╔╝     ██ 
+ ███ ███  ██ ██   ████ ██████╔╝███████ 
+```
 ### 🐱 **Win95 Portfolio**
-`[STATUS: DEPLOYED]`
+![Status](https://img.shields.io/badge/STATUS-DEPLOYED-success?style=flat-square)
 
 Windows 95-themed site with AI Cat Chatbot companion.
 
-**Tech:** React, Three.js, WebGL
+`React` `Three.js` `WebGL`
 
 </td>
 </tr>
@@ -110,18 +146,19 @@ Windows 95-themed site with AI Cat Chatbot companion.
 
 ---
 
-## City scape
+## 🏙️ `NIGHT_CITY.render()`
 
 <div align="center">
 
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
 
-<pre>
-╔═══════════════════════════════════════════════════════════╗
-║  [SYSTEM STATUS: ONLINE]                                  ║
-║  UPTIME: ∞ | LATENCY: 12ms | BUILD-ORA.INIT() → SUCCESS  ║
-╚═══════════════════════════════════════════════════════════╝
-</pre>
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  💚 SYSTEM STATUS: ONLINE                                ┃
+┃  ⏱️  UPTIME: ∞ | 📡 LATENCY: 12ms                         ┃
+┃  ✅ BUILD-ORA.INIT() → SUCCESS                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 </div>
 
@@ -151,7 +188,7 @@ Windows 95-themed site with AI Cat Chatbot companion.
 </p>
 
 <!-- ==================== FOOTER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
-<img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Footer Banner" />
+<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Footer Banner" />
 <!-- ===================================================================================== -->
 
 </div>

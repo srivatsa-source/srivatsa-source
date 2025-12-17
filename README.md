@@ -115,5 +115,5 @@
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
 </p>
 
-<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Footer Banner" />
+<img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Footer Banner" />
 </div>

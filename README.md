@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- NEON HEADER with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SRIVATSA-SOURCE&fontSize=60&fontColor=9EFEFF&animation=twinkling&fontAlignY=32&desc=INITIALIZING%20NEURAL%20LINK...&descSize=16&descAlignY=55" width="100%"/>
+<!-- PIXEL ART HEADER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="200" width="100%" />
 
 <!-- Glitch-style Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,14 +11,15 @@
 ---
 
 ## 🌃 `SYSTEM_INFO.exe`
-```ascii
+
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║  STATUS: SDE Intern @ Solar Tech Startup                 ║
 ║  EDUCATION: V Semester BCA | National College, Jayanagar ║
 ║  MISSION: Organizing 24hr Hackathon (Jan 2026)          ║
 ║  PROTOCOL: WebGL | Three.js | Hardware Modding           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -111,14 +112,15 @@ Windows 95-themed site with AI Cat Chatbot companion.
 ## 🏙️ `NIGHT_CITY.render()`
 
 <div align="center">
-  
-<img src="https://media.giphy.com/media/l378jJDkXigVPucfe/giphy.gif" width="800" />
-```diff
-@@                                                           @@
-+  [SYSTEM STATUS: ONLINE]                                   +
-+  UPTIME: ∞ | LATENCY: 12ms | BUILD-ORA.INIT() → SUCCESS   +
-@@                                                           @@
-```
+
+<img src="https://media.tenor.com/3Krv37RlWR8AAAAd/city-cityscape.gif" width="800" />
+
+<pre>
+╔═══════════════════════════════════════════════════════════╗
+║  [SYSTEM STATUS: ONLINE]                                  ║
+║  UPTIME: ∞ | LATENCY: 12ms | BUILD-ORA.INIT() → SUCCESS  ║
+╚═══════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
 
@@ -147,6 +149,7 @@ Windows 95-themed site with AI Cat Chatbot companion.
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+<!-- PIXEL ART FOOTER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="120" width="100%" />
 
 </div>

@@ -151,7 +151,7 @@ Windows 95-themed site with AI Cat Chatbot companion.
 </p>
 
 <!-- ==================== FOOTER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
-<img src="PUT_YOUR_FOOTER_IMAGE_URL_HERE" width="100%" alt="Footer Banner" />
+<img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Footer Banner" />
 <!-- ===================================================================================== -->
 
 </div>

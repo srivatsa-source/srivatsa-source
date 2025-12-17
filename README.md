@@ -1,7 +1,8 @@
-<div align="center">
+<!-- ==================== HEADER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
+<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Header Banner" />
+<!-- ===================================================================================== -->
 
-<!-- PIXEL ART HEADER -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="200" width="100%" />
+<div align="center">
 
 <!-- Glitch-style Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -149,7 +150,8 @@ Windows 95-themed site with AI Cat Chatbot companion.
   <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
 </p>
 
-<!-- PIXEL ART FOOTER -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="120" width="100%" />
+<!-- ==================== FOOTER BANNER - REPLACE WITH YOUR GIF/IMAGE ==================== -->
+<img src="PUT_YOUR_FOOTER_IMAGE_URL_HERE" width="100%" alt="Footer Banner" />
+<!-- ===================================================================================== -->
 
 </div>

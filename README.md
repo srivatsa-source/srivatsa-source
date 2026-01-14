@@ -1,102 +1,77 @@
 <div align="center">
 
-<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Header Banner" />
+<img src="https://i.redd.it/izptoyn7i4uz.gif" width="100%" alt="Header" />
+
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%5Bsystem_boot%5D...;%3E+WELCOME+TO+THE+GRID;%3E+Srivatsa's+Neural+Network" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=SRIVATSA;BUILD_ORA_FOUNDER;AI_ENGINEER" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<h3>📢 ANNOUNCEMENT.log</h3>
-<pre align="center">
-🎯 BUILD-ORA HACKATHON UPDATE 🎯
-Rescheduled to: MARCH 7th, 2026
-Location: RUAS, Bengaluru
-<i>Status: Systems Loading...</i>
-</pre>
+<table border="0">
+  <tr>
+    <td>
+      <pre>
+┌──────────────────────────────────────────────────────────┐
+│ [!] CRITICAL_SYSTEM_UPDATE                               │
+├──────────────────────────────────────────────────────────┤
+│ EVENT: Build-Ora Hackathon 2026                          │
+│ STATUS: Rescheduled for Network Optimization             │
+│ NEW_DATE: MARCH 07, 2026                                 │
+│ LOCATION: RUAS, Bengaluru                                │
+│ PRIZE_POOL: 2,00,000+ INR                                │
+└──────────────────────────────────────────────────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<h3>🔥 CORE_SKILLS.sys</h3>
+<h3>SYSTEM_SPECIFICATIONS</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6AC1?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine_Learning-9EFEFF?style=for-the-badge&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AGENTIC_AI-0D1117?style=flat-square&logo=openai&logoColor=9EFEFF" />
+  <img src="https://img.shields.io/badge/PYTHON-0D1117?style=flat-square&logo=python&logoColor=9EFEFF" />
+  <img src="https://img.shields.io/badge/FULL_STACK-0D1117?style=flat-square&logo=react&logoColor=9EFEFF" />
+  <img src="https://img.shields.io/badge/IOT-0D1117?style=flat-square&logo=raspberrypi&logoColor=9EFEFF" />
 </p>
 
 <br/>
 
-<h3>💾 SYSTEM_INFO.exe</h3>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=500&pause=800&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=>+role%3A+%22Founder+@+Build-Ora+%7C+AI+Engineer%22;>+focus%3A+%5B%22Agent+Orchestration%22%2C+%22IoT%22%2C+%22Cyberdeck+Hardware%22%5D;>+vibe%3A+%22Cyberpunk+%2B+Retro-futurism%22;>+status%3A+%22Building+the+Universal+Agent+Protocol%22;>+location%3A+%22Bengaluru%2C+IN%22" alt="Typing SVG" />
-</a>
+<h3>DIRECTORY: /ACTIVE_PROJECTS</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br/>
-
-<h3>🚀 ACTIVE_PROJECTS.db</h3>
-
-<h3>🌐 Universal Agent Protocol (UAP)</h3>
-<pre align="center">
-█ █ ▄▀█ █▀█  █▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █
-█▄█ █▀█ █▀▀  █▀▀ █▀▄ █▄█  █  █▄█ █▄▄ █▄█ █▄▄
-</pre>
-<p>A standardized communication framework for multi-agent interoperability and cross-platform task hand-offs.</p>
+<h4>> UNIVERSAL_AGENT_PROTOCOL (UAP)</h4>
+<p><i>A standardized framework for cross-platform AI agent interoperability and task hand-offs.</i></p>
 <p><code>LLM Orchestration</code> <code>Python</code> <code>Agentic Workflows</code></p>
 
-<br/>
+<h4>> DOCKDESK</h4>
+<p><i>Mobile interface for remote server management with integrated AI semantic audit layers.</i></p>
+<p><code>React Native</code> <code>Node.js</code> <code>Vector Databases</code></p>
 
-<h3>📱 DockDesk</h3>
-<pre align="center">
-█▀▄ █▀█ █▀▀ █▄▀ █▀▄ █▀▀ █▀ █▄▀
-█▄▀ █▄█ █▄▄ █ █ █▄▀ ██▄ ▄█ █ █
-</pre>
-<p>AI Agent mobile app for remote programming & server management with semantic auditing.</p>
-<p><code>React Native</code> <code>Node.js</code> <code>Vector Embeddings</code></p>
-
-<br/>
-
-<h3>⚔️ One-Hit Samurai</h3>
-<pre align="center">
-█▀█ █▄ █ █▀▀ ▄▄ █ █ █ ▀█▀    █▀ ▄▀█ █▀▄▀█ █ █ █▀█ ▄▀█ █
-█▄█ █ ▀█ ██▄    █▀█ █  █     ▄█ █▀█ █ ▀ █ █▄█ █▀▄ █▀█ █
-</pre>
-<p>High-stakes pixelated PVP fighter with custom netcode and retro mechanics.</p>
+<h4>> ONE_HIT_SAMURAI</h4>
+<p><i>Pixel-art PVP fighter focused on frame-perfect combat and custom netcode.</i></p>
 <p><code>Unity</code> <code>C#</code> <code>Pixel Art</code></p>
 
-<br/>
+<h4>> IMG2MODEL</h4>
+<p><i>Automated pipeline for converting standard video feeds into 3D assets.</i></p>
+<p><code>Computer Vision</code> <code>Blender API</code> <code>Python</code></p>
 
-<h3>🎨 Img2Model</h3>
-<pre align="center">
-█ █▀▄▀█ █▀▀ ▀█ █▀▄▀█ █▀█ █▀▄ █▀▀ █  
-█ █ ▀ █ █▄█ █▄ █ ▀ █ █▄█ █▄▀ ██▄ █▄▄
-</pre>
-<p>Video-to-3D conversion tool utilizing local ML models and Blender API integration.</p>
-<p><code>Computer Vision</code> <code>Python</code> <code>Blender</code></p>
-
-<br/>
-
-<h3>🪟 Windows95 Portfolio</h3>
-<pre align="center">
-▀▄▀▄▀ █ █ ▀█ █▄▀ █▄█ ▀▄▀▄▀ ▄█ ▀▀█ ▄██    █▀▀ █▄█ █▀▄  █  █▀  █▄█ █▄▄ █ █▄█
-</pre>
-<p>Interactive retro-OS portfolio featuring a WebGL-based AI Cat companion.</p>
+<h4>> PORTFOLIO_V95</h4>
+<p><i>Retro-OS web experience featuring a WebGL-accelerated AI companion.</i></p>
 <p><code>Three.js</code> <code>WebGL</code> <code>React</code></p>
 
 <br/>
 
-<h3>⚡ TECH_STACK.json</h3>
+<h3>HARDWARE_STACK</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git,github&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git,github&perline=14&theme=dark" />
 </p>
 
 <br/>
 
-<h3>📊 NEURAL_METRICS.sys</h3>
+<h3>NETWORK_ACTIVITY</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa-source&theme=tokyonight&hide_border=true&background=0D1117&ring=9EFEFF&fire=FF6AC1&currStreakLabel=9EFEFF" width="48%" />
@@ -104,29 +79,21 @@ Location: RUAS, Bengaluru
 
 <br/>
 
-<h3>🌃 NIGHT_CITY.render()</h3>
 <div align="center">
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=300&pause=500&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=>+print(%22Building+the+Future+of+Agentic+Systems%22);>+while+(true)+%7B;>++innovate();>++code();>++scale();>+%7D" alt="Typing SVG" />
-</a>
 </div>
 
-<h3>🔗 CONNECT.link()</h3>
+<br/>
+
+<h3>ESTABLISH_CONNECTION</h3>
 <p align="center">
-  <a href="https://github.com/srivatsa-source">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9EFEFF" />
-  </a>
-  <a href="https://linkedin.com/in/srivatsa-source">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9EFEFF" />
-  </a>
-  <a href="mailto:srivatsa1312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6AC1" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srivatsa-source&color=9EFEFF&style=for-the-badge&label=PROFILE+SCANS" />
+  <a href="https://github.com/srivatsa-source">GitHub</a> • 
+  <a href="https://linkedin.com/in/srivatsa-source">LinkedIn</a> • 
+  <a href="mailto:srivatsa1312@gmail.com">Email</a>
 </p>
 
-<img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Footer Banner" />
+<br/>
+
+<img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" />
+
 </div>

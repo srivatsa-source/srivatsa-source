@@ -5,10 +5,10 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=SYSTEM_BOOT:...;SRIVATSA_PROTOCOL;AI_ENGINEERING_V5.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=SYSTEM_BOOT:...;SRIVATSA_PROTOCOL;AI_ENGINEERING_V5.0" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <pre>
 ┌──────────────────────────────────────────────────────────┐
@@ -21,6 +21,14 @@
 │ STATUS    : PRE-FLIGHT_INIT                              │
 └──────────────────────────────────────────────────────────┘
 </pre>
+
+<br/>
+
+<h3>DEVELOPER_STATUS</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LEVEL-20_DEVELOPER-9EFEFF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI-ENGINEER-FF6AC1?style=for-the-badge&labelColor=0D1117" />
+</p>
 
 <br/>
 

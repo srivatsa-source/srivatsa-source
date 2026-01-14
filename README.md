@@ -11,25 +11,27 @@
 
 <h3>📢 ANNOUNCEMENT.log</h3>
 <pre align="center">
-🎯 HACKATHON UPDATE 🎯
-Postponed to March 7th, 2026
-Stay Tuned for More Details!
+🎯 BUILD-ORA HACKATHON UPDATE 🎯
+Rescheduled to: MARCH 7th, 2026
+Location: RUAS, Bengaluru
+<i>Status: Systems Loading...</i>
 </pre>
 
 <br/>
 
 <h3>🔥 CORE_SKILLS.sys</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6AC1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engineering-9EFEFF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6AC1?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-9EFEFF?style=for-the-badge&logo=tensorflow&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <br/>
 
 <h3>💾 SYSTEM_INFO.exe</h3>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=500&pause=800&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=>+role%3A+%22Full-Stack+Dev+%2B+Hardware+Hacker%22;>+focus%3A+%5B%22AI%22%2C+%22Game+Dev%22%2C+%22IoT%22%2C+%223D%22%5D;>+vibe%3A+%22Cyberpunk+%2B+Retro-futurism%22;>+status%3A+%22Building+cool+shit%22;>+location%3A+%22The+Matrix%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=500&pause=800&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=>+role%3A+%22Founder+@+Build-Ora+%7C+AI+Engineer%22;>+focus%3A+%5B%22Agent+Orchestration%22%2C+%22IoT%22%2C+%22Cyberdeck+Hardware%22%5D;>+vibe%3A+%22Cyberpunk+%2B+Retro-futurism%22;>+status%3A+%22Building+the+Universal+Agent+Protocol%22;>+location%3A+%22Bengaluru%2C+IN%22" alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -38,23 +40,33 @@ Stay Tuned for More Details!
 
 <h3>🚀 ACTIVE_PROJECTS.db</h3>
 
+<h3>🌐 Universal Agent Protocol (UAP)</h3>
+<pre align="center">
+█ █ ▄▀█ █▀█  █▀█ █▀█ █▀█ ▀█▀ █▀█ █▀▀ █▀█ █
+█▄█ █▀█ █▀▀  █▀▀ █▀▄ █▄█  █  █▄█ █▄▄ █▄█ █▄▄
+</pre>
+<p>A standardized communication framework for multi-agent interoperability and cross-platform task hand-offs.</p>
+<p><code>LLM Orchestration</code> <code>Python</code> <code>Agentic Workflows</code></p>
+
+<br/>
+
 <h3>📱 DockDesk</h3>
 <pre align="center">
 █▀▄ █▀█ █▀▀ █▄▀ █▀▄ █▀▀ █▀ █▄▀
 █▄▀ █▄█ █▄▄ █ █ █▄▀ ██▄ ▄█ █ █
 </pre>
-<p>AI Agent mobile app for remote programming & server management.</p>
-<p><code>React Native</code> <code>Node.js</code> <code>AI APIs</code></p>
+<p>AI Agent mobile app for remote programming & server management with semantic auditing.</p>
+<p><code>React Native</code> <code>Node.js</code> <code>Vector Embeddings</code></p>
 
 <br/>
 
 <h3>⚔️ One-Hit Samurai</h3>
 <pre align="center">
-█▀█ █▄ █ █▀▀ ▄▄ █ █ █ ▀█▀   █▀ ▄▀█ █▀▄▀█ █ █ █▀█ ▄▀█ █
-█▄█ █ ▀█ ██▄    █▀█ █  █    ▄█ █▀█ █ ▀ █ █▄█ █▀▄ █▀█ █
+█▀█ █▄ █ █▀▀ ▄▄ █ █ █ ▀█▀    █▀ ▄▀█ █▀▄▀█ █ █ █▀█ ▄▀█ █
+█▄█ █ ▀█ ██▄    █▀█ █  █     ▄█ █▀█ █ ▀ █ █▄█ █▀▄ █▀█ █
 </pre>
-<p>High-stakes pixelated PVP fighter inspired by Nidhogg.</p>
-<p><code>Unity</code> <code>C#</code> <code>Pixel Art</code> <code>Netcode</code></p>
+<p>High-stakes pixelated PVP fighter with custom netcode and retro mechanics.</p>
+<p><code>Unity</code> <code>C#</code> <code>Pixel Art</code></p>
 
 <br/>
 
@@ -63,28 +75,17 @@ Stay Tuned for More Details!
 █ █▀▄▀█ █▀▀ ▀█ █▀▄▀█ █▀█ █▀▄ █▀▀ █  
 █ █ ▀ █ █▄█ █▄ █ ▀ █ █▄█ █▄▀ ██▄ █▄▄
 </pre>
-<p>Video → 3D model conversion using local + cloud AI.</p>
-<p><code>Python</code> <code>ML</code> <code>Blender API</code></p>
-
-<br/>
-
-<h3>💻 Custom Cyberdeck</h3>
-<pre align="center">
-█▀▀ █ █ █▀ ▀█▀ █▀█ █▀▄▀█   █▀▀ █▄█ █▄▄ █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▄▀
-█▄▄ █▄█ ▄█  █  █▄█ █ ▀ █   █▄▄  █  █▄█ ██▄ █▀▄ █▄▀ ██▄ █▄▄ █ █
-</pre>
-<p>Raspberry Pi + Mini Projector portable deck.</p>
-<p><code>RPi</code> <code>Arduino</code> <code>3D Printing</code></p>
+<p>Video-to-3D conversion tool utilizing local ML models and Blender API integration.</p>
+<p><code>Computer Vision</code> <code>Python</code> <code>Blender</code></p>
 
 <br/>
 
 <h3>🪟 Windows95 Portfolio</h3>
 <pre align="center">
-█ █ █ █ █▄ █ █▀▄ █▀█ █ █ █ █▀ █▀█ █▀▀   █▀█ █▀█ █▀█ ▀█▀ █▀▀ █▀█ █   █ █▀▀█
-▀▄▀▄▀ █ █ ▀█ █▄▀ █▄█ ▀▄▀▄▀ ▄█ ▀▀█ ▄██   █▀▀ █▄█ █▀▄  █  █▀  █▄█ █▄▄ █ █▄█
+▀▄▀▄▀ █ █ ▀█ █▄▀ █▄█ ▀▄▀▄▀ ▄█ ▀▀█ ▄██    █▀▀ █▄█ █▀▄  █  █▀  █▄█ █▄▄ █ █▄█
 </pre>
-<p>Windows 95-themed site with AI Cat Chatbot companion.</p>
-<p><code>React</code> <code>Three.js</code> <code>WebGL</code></p>
+<p>Interactive retro-OS portfolio featuring a WebGL-based AI Cat companion.</p>
+<p><code>Three.js</code> <code>WebGL</code> <code>React</code></p>
 
 <br/>
 
@@ -100,9 +101,6 @@ Stay Tuned for More Details!
   <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa-source&theme=tokyonight&hide_border=true&background=0D1117&ring=9EFEFF&fire=FF6AC1&currStreakLabel=9EFEFF" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&text_color=C0CAF5" width="48%" />
-</p>
 
 <br/>
 
@@ -110,7 +108,7 @@ Stay Tuned for More Details!
 <div align="center">
 <img src="https://wallpapercave.com/wp/wp9637442.gif" width="100%" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=300&pause=500&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=>+print(%22In+the+neon+glow%2C+we+build+tomorrow%22);>+while+(true)+%7B;>++dream();>++code();>++create();>+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=300&pause=500&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=>+print(%22Building+the+Future+of+Agentic+Systems%22);>+while+(true)+%7B;>++innovate();>++code();>++scale();>+%7D" alt="Typing SVG" />
 </a>
 </div>
 
@@ -119,13 +117,10 @@ Stay Tuned for More Details!
   <a href="https://github.com/srivatsa-source">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9EFEFF" />
   </a>
-  <a href="https://twitter.com/srivatsa-source">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=9EFEFF" />
-  </a>
   <a href="https://linkedin.com/in/srivatsa-source">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9EFEFF" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:srivatsa1312@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6AC1" />
   </a>
 </p>

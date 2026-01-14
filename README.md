@@ -100,8 +100,8 @@
 
 <h3>NETWORK_LOGS</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa-source&theme=tokyonight&hide_border=true&background=0D1117&ring=9EFEFF&fire=FF6AC1&currStreakLabel=9EFEFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srivatsa-source&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa-source&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=9EFEFF&icon_color=FF6AC1&text_color=C0CAF5&hide_border=true" width="48%" />
 </p>
 
 <br/>

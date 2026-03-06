@@ -8,22 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=3000&pause=1000&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=INIT_SRIVATSA_PROTOCOL;SUBSTANCE_OVER_WRAPPERS;CAFE_RACER_ENTHUSIAST;WATCH_COLLECTOR" alt="Typing SVG" />
 </a>
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=srivatsa-source&style=for-the-badge&color=9EFEFF&label=PROFILE_VIEWS&labelColor=0D1117)
+
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  [!]  C R I T I C A L _ E V E N T _ S T A T U S                ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   IMPORT PARADOX 2026  //  National Level AI Hackathon           ║
-║   ( Substance-over-Wrappers  |  High-Integrity Agentic Flows )   ║
-║                                                                  ║
-╠══════════════════════════════════════╦═══════════════════════════╣
-║  ROLE     » Lead Organizer           ║  Build-Ora                ║
-║  SCHEDULE » March / April 2026       ║  DEPLOYING_SUBSTANCE      ║
-║  PAYLOAD  » 2,00,000+ INR Prize Pool ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░    ║
-╚══════════════════════════════════════╩═══════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=99999&pause=99999&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=160&lines=╔══════════════════════════════════════════════════════════════╗;║+[!]+C+R+I+T+I+C+A+L+_+E+V+E+N+T+_+S+T+A+T+U+S+++++++++++++║;╠══════════════════════════════════════════════════════════════╣;║+++IMPORT+PARADOX+2026+//+National+Level+AI+Hackathon++++++++++║;║+++Substance-over-Wrappers+|+High-Integrity+Agentic+Flows+++++║;╠══════════════════════════════════════════════════════════════╣;║+ROLE»+Lead+Organizer+(Build-Ora)+++++++++++++++++++++++++++++║;║+SCHEDULE»+March+/+April+2026++++++++++++++++++++++++++++++++++║;║+PAYLOAD»+2,00,000%2B+INR+Prize+Pool++STATUS»+DEPLOYING_SUB+++║;╚══════════════════════════════════════════════════════════════╝" alt="Event Box" />
 
 <br/>
 
@@ -43,71 +34,31 @@
 
 <br/>
 
-```
-██████╗  ██████╗  ██████╗██╗  ██╗██████╗ ███████╗███████╗██╗  ██╗
-██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝██╔══██╗██╔════╝██╔════╝██║ ██╔╝
-██║  ██║██║   ██║██║     █████╔╝ ██║  ██║█████╗  ███████╗█████╔╝
-██║  ██║██║   ██║██║     ██╔═██╗ ██║  ██║██╔══╝  ╚════██║██╔═██╗
-██████╔╝╚██████╔╝╚██████╗██║  ██╗██████╔╝███████╗███████║██║  ██╗
-╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
-                                               v2.3  Neural Edition
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=+██████╗++██████╗++██████╗██╗++██╗██████╗+███████╗███████╗██╗++██╗+;+██╔══██╗██╔═══██╗██╔════╝██║+██╔╝██╔══██╗██╔════╝██╔════╝██║+██╔╝+;+██║++██║██║+++██║██║++++█████╔╝+██║++██║█████╗++███████╗█████╔╝++;+██║++██║██║+++██║██║++++██╔═██╗+██║++██║██╔══╝++╚════██║██╔═██╗++;+██████╔╝╚██████╔╝╚██████╗██║++██╗██████╔╝███████╗███████║██║++██╗+;+╚═════╝++╚═════╝++╚═════╝╚═╝++╚═╝╚═════╝+╚══════╝╚══════╝╚═╝++╚═╝+" alt="DOCKDESK" />
 
 **Semantic Code & Documentation Auditor.**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  PERFORMANCE  │  O(k) incremental audits via SQLite Merkle Trees │
-│  INTELLIGENCE │  AST-aware RAG pipeline — logic stays intact     │
-│  STACK        │  Python · Ollama · SQLite · AST Parsing          │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=13&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=85&lines=+┌──────────────────┬──────────────────────────────────────────────┐+;+│+PERFORMANCE++++++│+O(k)+incremental+audits+·+SQLite+Merkle+Trees+│+;+│+INTELLIGENCE+++++│+AST-aware+RAG+pipeline+—+logic+stays+intact++│+;+│+STACK++++++++++++│+Python+·+Ollama+·+SQLite+·+AST+Parsing+++++++│+;+└──────────────────┴──────────────────────────────────────────────┘+" alt="DockDesk Info" />
 
 <a href="https://github.com/srivatsa-source/dockdesk"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=DOCKDESK+NEURAL+PREVIEW" alt="DockDesk Preview" width="100%"/></a>
 
 <br/><br/>
 
-```
-██╗   ██╗ █████╗ ██████╗     ██████╗ ██████╗  ██████╗ ████████╗ ██████╗  ██████╗ ██████╗ ██╗
-██║   ██║██╔══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔═══██╗██╔════╝██╔═══██╗██║
-██║   ██║███████║██████╔╝    ██████╔╝██████╔╝██║   ██║   ██║   ██║   ██║██║     ██║   ██║██║
-██║   ██║██╔══██║██╔═══╝     ██╔═══╝ ██╔══██╗██║   ██║   ██║   ██║   ██║██║     ██║   ██║██║
-╚██████╔╝██║  ██║██║         ██║     ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗╚██████╔╝███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=99999&pause=99999&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=+██╗++++██╗+█████╗+██████╗++██████╗+██████╗++██████╗+████████╗██████╗++██████╗+██╗+;+██║++++██║██╔══██╗██╔══██╗+██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔═══██╗██╔════╝██║+;+██║++++██║███████║██████╔╝+██████╔╝██████╔╝██║+++██║+++██║+++██║+++██║██║+++++██║+;+██║++++██║██╔══██║██╔═══╝++██╔═══╝++██╔══██╗██║+++██║+++██║+++██║+++██║██║+++++██║+;+╚██████╔╝██║++██║██║++++++██║+++++██║++██║╚██████╔╝+++██║+++╚██████╔╝╚██████╗███████╗+;++╚═════╝+╚═╝++╚═╝╚═╝++++++╚═╝+++++╚═╝++╚═╝+╚═════╝++++╚═╝++++╚═════╝++╚═════╝╚══════╝+" alt="UAP PROTOCOL" />
 
 **Standardizing agentic interoperability.**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  MISSION   │  Orchestration between heterogeneous AI agents      │
-│  FOCUS     │  Shared mental context for reliable multi-agent     │
-│            │  workflows — no more coordination drift             │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=13&duration=99999&pause=99999&color=9EFEFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=85&lines=+┌──────────────────┬──────────────────────────────────────────────┐+;+│+MISSION++++++++++│+Orchestration+between+heterogeneous+agents+++│+;+│+FOCUS++++++++++++│+Shared+mental+context+·+no+coordination+drift+│+;+│+STATUS++++++++++│+ACTIVE_DEPLOYMENT+██████████████████████+++│+;+└──────────────────┴──────────────────────────────────────────────┘+" alt="UAP Info" />
 
 <a href="https://github.com/srivatsa-source/uap"><img src="https://via.placeholder.com/1000x400/0D1117/9EFEFF?text=UAP+PROTOCOL+VISUALIZATION" alt="UAP Preview" width="100%"/></a>
 
 <br/><br/>
 
-```
-██████╗ ██╗      ██████╗  ██████╗ ███╗   ███╗    ███████╗███████╗ ██████╗ ██╗   ██╗███████╗██╗
-██╔══██╗██║     ██╔═══██╗██╔═══██╗████╗ ████║    ██╔════╝██╔════╝██╔═══██╗██║   ██║██╔════╝██║
-██████╔╝██║     ██║   ██║██║   ██║██╔████╔██║    ███████╗█████╗  ██║   ██║██║   ██║█████╗  ██║
-██╔══██╗██║     ██║   ██║██║   ██║██║╚██╔╝██║    ╚════██║██╔══╝  ██║▄▄ ██║██║   ██║██╔══╝  ██║
-██████╔╝███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║    ███████║███████╗╚██████╔╝╚██████╔╝███████╗███████╗
-╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=+██████╗+██╗++++██████╗++██████╗+███╗+++███╗+███████╗███████╗██████╗+++██╗+++██╗███████╗██╗+;+██╔══██╗██║++++██╔═══██╗██╔═══██╗████╗+████║+██╔════╝██╔════╝██╔══██╗+██║+++██║██╔════╝██║+;+██████╔╝██║++++██║+++██║██║+++██║██╔████╔██║+███████╗█████╗++██║++██║+██║+++██║█████╗++██║+;+██╔══██╗██║++++██║+++██║██║+++██║██║╚██╔╝██║+╚════██║██╔══╝++██║++██║+██║+++██║██╔══╝++██║+;+██████╔╝███████╗╚██████╔╝╚██████╔╝██║+╚═╝+██║+███████║███████╗██████╔╝+╚██████╔╝███████╗███████╗+;+╚═════╝+╚══════╝+╚═════╝++╚═════╝+╚═╝+++++╚═╝+╚══════╝╚══════╝╚═════╝+++╚═════╝+╚══════╝╚══════╝+" alt="BLOOM SEQUEL" />
 
 **WebGL-powered retro explorer.**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CONCEPT   │  Win95-inspired environment + WebGL AI companion    │
-│  STACK     │  Three.js · WebGL · React                           │
-│  VIBE      │  Retro shell. Neural core. Maximum nostalgia.       │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=13&duration=99999&pause=99999&color=FF6AC1&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=85&lines=+┌──────────────────┬──────────────────────────────────────────────┐+;+│+CONCEPT++++++++++│+Win95-inspired+env+%2B+WebGL+AI+companion+++++│+;+│+STACK++++++++++++│+Three.js+·+WebGL+·+React+++++++++++++++++++++│+;+│+VIBE+++++++++++++│+Retro+shell.+Neural+core.+Maximum+nostalgia.++│+;+└──────────────────┴──────────────────────────────────────────────┘+" alt="Bloom Info" />
 
 <a href="https://github.com/srivatsa-source/bloom"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=BLOOM+WEBGL+RENDER" alt="Bloom Preview" width="100%"/></a>
 

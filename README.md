@@ -10,30 +10,30 @@
 
 <br/><br/>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────┐
-│ [!] CRITICAL_EVENT_STATUS                                        │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  IMPORT PARADOX 2026 // National Level AI Hackathon              │
-│  (Substance-over-Wrappers | High-Integrity Agentic Workflows)    │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│ ROLE      : Lead Organizer (Build-Ora)        │
-│ SCHEDULE  : MARCH / APRIL 2026                │
-│ PAYLOAD   : 2,00,000+ INR Prize Pool          │
-│ STATUS    : DEPLOYING_SUBSTANCE                                  │
-└──────────────────────────────────────────────────────────────────┘
-</pre>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  [!]  C R I T I C A L _ E V E N T _ S T A T U S                ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   IMPORT PARADOX 2026  //  National Level AI Hackathon           ║
+║   ( Substance-over-Wrappers  |  High-Integrity Agentic Flows )   ║
+║                                                                  ║
+╠══════════════════════════════════════╦═══════════════════════════╣
+║  ROLE     » Lead Organizer           ║  Build-Ora                ║
+║  SCHEDULE » March / April 2026       ║  DEPLOYING_SUBSTANCE      ║
+║  PAYLOAD  » 2,00,000+ INR Prize Pool ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░    ║
+╚══════════════════════════════════════╩═══════════════════════════╝
+```
 
 <br/>
 
 ## Metadata & Logs
-**Current Status:** 90% through the life-tutorial... [█████████░].  
-**Vulnerability:** Can be easily lured into a trap with a vintage **HMT** or **Ricoh** watch.  
-**Side-Quest:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.  
 
-**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m being "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
+**Current Status:** 90% through the life-tutorial... `[█████████░]`
+**Vulnerability:** Can be easily lured into a trap with a vintage **HMT** or **Ricoh** watch.
+**Side-Quest:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.
+
+**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I'm being "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I'm obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
 
 <br/>
 
@@ -43,46 +43,71 @@
 
 <br/>
 
-<pre>
-<span style="color: #FF6AC1">
-  █▀▄ █▀█ █▀▀ █▄▀ █▀▄ █▀▀ █▀ █▄▀
-  █▄▀ █▄█ █▄▄ █ █ █▄▀ ██▄ ▄█ █ █ (v2.3 Neural Edition)
-</span>
-</pre>
+```
+██████╗  ██████╗  ██████╗██╗  ██╗██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝██╔══██╗██╔════╝██╔════╝██║ ██╔╝
+██║  ██║██║   ██║██║     █████╔╝ ██║  ██║█████╗  ███████╗█████╔╝
+██║  ██║██║   ██║██║     ██╔═██╗ ██║  ██║██╔══╝  ╚════██║██╔═██╗
+██████╔╝╚██████╔╝╚██████╗██║  ██╗██████╔╝███████╗███████║██║  ██╗
+╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+                                               v2.3  Neural Edition
+```
+
 **Semantic Code & Documentation Auditor.**
-* **Performance:** $O(k)$ incremental audits via SQLite-backed Merkle Trees.
-* **Intelligence:** AST-aware RAG pipeline to keep logic intact during auditing.
-* **Stack:** `Python` `Ollama` `SQLite` `AST Parsing`.
 
-
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  PERFORMANCE  │  O(k) incremental audits via SQLite Merkle Trees │
+│  INTELLIGENCE │  AST-aware RAG pipeline — logic stays intact     │
+│  STACK        │  Python · Ollama · SQLite · AST Parsing          │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/srivatsa-source/dockdesk"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=DOCKDESK+NEURAL+PREVIEW" alt="DockDesk Preview" width="100%"/></a>
 
-<br/>
+<br/><br/>
 
-<pre>
-<span style="color: #9EFEFF">
-  █ █  ▄▀█  █▀█      █▀█  █▀█  █▀█  ▀█▀  █▀█  █▀▀  █▀█  █
-  █▄█  █▀█  █▀▀      █▀▀  █▀▄  █▄█   █   █▄█  █▄▄  █▄█  █▄▄
-</span>
-</pre>
+```
+██╗   ██╗ █████╗ ██████╗     ██████╗ ██████╗  ██████╗ ████████╗ ██████╗  ██████╗ ██████╗ ██╗
+██║   ██║██╔══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔═══██╗██╔════╝██╔═══██╗██║
+██║   ██║███████║██████╔╝    ██████╔╝██████╔╝██║   ██║   ██║   ██║   ██║██║     ██║   ██║██║
+██║   ██║██╔══██║██╔═══╝     ██╔═══╝ ██╔══██╗██║   ██║   ██║   ██║   ██║██║     ██║   ██║██║
+╚██████╔╝██║  ██║██║         ██║     ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗╚██████╔╝███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
+```
+
 **Standardizing agentic interoperability.**
-* A framework for orchestration between heterogeneous autonomous AI agents.
-* Focuses on building a **shared mental context** for reliable multi-agent workflows.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MISSION   │  Orchestration between heterogeneous AI agents      │
+│  FOCUS     │  Shared mental context for reliable multi-agent     │
+│            │  workflows — no more coordination drift             │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/srivatsa-source/uap"><img src="https://via.placeholder.com/1000x400/0D1117/9EFEFF?text=UAP+PROTOCOL+VISUALIZATION" alt="UAP Preview" width="100%"/></a>
 
-<br/>
+<br/><br/>
 
-<pre>
-<span style="color: #FF6AC1">
-  █▀▄ █   █▀█ █▀█ █▀▄▀█      █▀ █▀▀ █▀▄ █▀▀ █ █ █▀▀ █▀▀█
-  █▀▄ █▄▄ █▄█ █▄█ █ ▀ █      ▄█ ██▄ █▄▀ ██▄ █▄█ █▀▀ █ █▄
-</span>
-</pre>
+```
+██████╗ ██╗      ██████╗  ██████╗ ███╗   ███╗    ███████╗███████╗ ██████╗ ██╗   ██╗███████╗██╗
+██╔══██╗██║     ██╔═══██╗██╔═══██╗████╗ ████║    ██╔════╝██╔════╝██╔═══██╗██║   ██║██╔════╝██║
+██████╔╝██║     ██║   ██║██║   ██║██╔████╔██║    ███████╗█████╗  ██║   ██║██║   ██║█████╗  ██║
+██╔══██╗██║     ██║   ██║██║   ██║██║╚██╔╝██║    ╚════██║██╔══╝  ██║▄▄ ██║██║   ██║██╔══╝  ██║
+██████╔╝███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║    ███████║███████╗╚██████╔╝╚██████╔╝███████╗███████╗
+╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝
+```
+
 **WebGL-powered retro explorer.**
-* A Win95-inspired environment featuring an integrated WebGL-powered AI companion.
-* `Three.js` `WebGL` `React`.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  CONCEPT   │  Win95-inspired environment + WebGL AI companion    │
+│  STACK     │  Three.js · WebGL · React                           │
+│  VIBE      │  Retro shell. Neural core. Maximum nostalgia.       │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/srivatsa-source/bloom"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=BLOOM+WEBGL+RENDER" alt="Bloom Preview" width="100%"/></a>
 
@@ -110,6 +135,7 @@
 <br/>
 
 ### Establish Link
+
 <p align="center">
   <a href="https://github.com/srivatsa-source">GITHUB</a> // 
   <a href="https://linkedin.com/in/srivatsa-source">LINKEDIN</a> // 

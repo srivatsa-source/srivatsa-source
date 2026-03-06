@@ -21,34 +21,32 @@
 ├──────────────────────────────────────────────────────────────────┤
 │ ROLE      : Lead Organizer (Build-Ora)        │
 │ SCHEDULE  : MARCH / APRIL 2026                │
-│ PAYLOAD   : 2,00,000+ INR Prize Pool │
-│ STATUS    : DEPLOYING_SUBSTANCE      │
+│ PAYLOAD   : 2,00,000+ INR Prize Pool          │
+│ STATUS    : DEPLOYING_SUBSTANCE                                  │
 └──────────────────────────────────────────────────────────────────┘
 </pre>
 
 <br/>
 
-## 👾 User Metadata
-**Status:** 90% through the tutorial... [█████████░].  
+## Metadata & Logs
+**Current Status:** 90% through the life-tutorial... [█████████░].  
 **Vulnerability:** Can be easily lured into a trap with a vintage **HMT** or **Ricoh** watch.  
-**Primary Objective:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.  
+**Side-Quest:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.  
 
-**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m scheduled to be "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
+**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m being "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
 
 <br/>
 
 ---
 
-## 🛠️ Deployments
+## Deployments
 
 <br/>
 
 <pre>
 <span style="color: #FF6AC1">
-  ___  ___  ___ _ _ ___  ___ ___ _ _ 
- | . \| . ||  _| | | . \| __| __| | |
- | | || | || (_|   | | || _] \__\   /
- |___/|___/ \___|_|_|___/|___|___/_|_\ (v2.3 Neural Edition)
+  █▀▄ █▀█ █▀▀ █▄▀ █▀▄ █▀▀ █▀ █▄▀
+  █▄▀ █▄█ █▄▄ █ █ █▄▀ ██▄ ▄█ █ █ (v2.3 Neural Edition)
 </span>
 </pre>
 **Semantic Code & Documentation Auditor.**
@@ -56,51 +54,43 @@
 * **Intelligence:** AST-aware RAG pipeline to keep logic intact during auditing.
 * **Stack:** `Python` `Ollama` `SQLite` `AST Parsing`.
 
-<a href="https://github.com/srivatsa-source/dockdesk">
-  <img src="https://via.placeholder.com/1000x300/0D1117/FF6AC1?text=DOCKDESK+NEURAL+PREVIEW+IMAGE" alt="DockDesk Preview" width="100%"/>
-</a>
+
+
+<a href="https://github.com/srivatsa-source/dockdesk"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=DOCKDESK+NEURAL+PREVIEW" alt="DockDesk Preview" width="100%"/></a>
 
 <br/>
 
 <pre>
 <span style="color: #9EFEFF">
-  _ _  ___  ___ 
- | | || . || . \
- |___||   ||  _/
-      |_|_||_|  PROTOCOL
+  █ █  ▄▀█  █▀█      █▀█  █▀█  █▀█  ▀█▀  █▀█  █▀▀  █▀█  █
+  █▄█  █▀█  █▀▀      █▀▀  █▀▄  █▄█   █   █▄█  █▄▄  █▄█  █▄▄
 </span>
 </pre>
 **Standardizing agentic interoperability.**
 * A framework for orchestration between heterogeneous autonomous AI agents.
 * Focuses on building a **shared mental context** for reliable multi-agent workflows.
 
-<a href="https://github.com/srivatsa-source/uap">
-  <img src="https://via.placeholder.com/1000x300/0D1117/9EFEFF?text=UAP+PROTOCOL+VISUALIZATION" alt="UAP Preview" width="100%"/>
-</a>
+<a href="https://github.com/srivatsa-source/uap"><img src="https://via.placeholder.com/1000x400/0D1117/9EFEFF?text=UAP+PROTOCOL+VISUALIZATION" alt="UAP Preview" width="100%"/></a>
 
 <br/>
 
 <pre>
 <span style="color: #FF6AC1">
-  ___  _    ___  ___  _ _ 
- | . \| |  | . || . || \ |
- | _ <| |_ | | || | ||   |
- |___/|___||___||___||_\_| ENGINE
+  █▀▄ █   █▀█ █▀█ █▀▄▀█      █▀ █▀▀ █▀▄ █▀▀ █ █ █▀▀ █▀▀█
+  █▀▄ █▄▄ █▄█ █▄█ █ ▀ █      ▄█ ██▄ █▄▀ ██▄ █▄█ █▀▀ █ █▄
 </span>
 </pre>
 **WebGL-powered retro explorer.**
 * A Win95-inspired environment featuring an integrated WebGL-powered AI companion.
 * `Three.js` `WebGL` `React`.
 
-<a href="https://github.com/srivatsa-source/bloom">
-  <img src="https://via.placeholder.com/1000x300/0D1117/FF6AC1?text=BLOOM+WEBGL+RENDER" alt="Bloom Preview" width="100%"/>
-</a>
+<a href="https://github.com/srivatsa-source/bloom"><img src="https://via.placeholder.com/1000x400/0D1117/FF6AC1?text=BLOOM+WEBGL+RENDER" alt="Bloom Preview" width="100%"/></a>
 
 <br/>
 
 ---
 
-## 📊 Capabilities & Logs
+## Capabilities & Network Logs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,cpp,unity,blender,arduino,raspberrypi,vscode,git,github&perline=14&theme=dark" />

@@ -33,7 +33,7 @@
 **Vulnerability:** Can be easily lured into a trap with a vintage **HMT** or **Ricoh** watch.  
 **Primary Objective:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.  
 
-**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m being "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
+**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m scheduled to be "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
 
 <br/>
 

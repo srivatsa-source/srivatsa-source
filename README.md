@@ -29,17 +29,17 @@
 <br/>
 
 ## 👾 User Metadata
-**Status:** Loading graduation... [█████████░] 90%.  
-**Vulnerability:** Can be easily distracted by a vintage **HMT** or **Ricoh** watch.  
-**Primary Objective:** To finally stop being just an enthusiast and actually **own my dream cafe racer**.  
+**Status:** 90% through the tutorial... [█████████░].  
+**Vulnerability:** Can be easily lured into a trap with a vintage **HMT** or **Ricoh** watch.  
+**Primary Objective:** Transitioning from a "cafe racer enthusiast" to actually **owning my dream bike**.  
 
-**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I am scheduled to be "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
+**The Professional Bit:** I am the Founder of **Build-Ora**. In April 2026, I’m being "acquired" as an SDE Intern by **Lenn Chartered**. I build things because I’m obsessed with **Knowledge Integrity** and making sure AI agents actually understand the code they are looking at.
 
 <br/>
 
 ---
 
-## 🛠️ Technical Deployments
+## 🛠️ Deployments
 
 <br/>
 
@@ -52,12 +52,12 @@
 </span>
 </pre>
 **Semantic Code & Documentation Auditor.**
-* **Performance:** Implemented **$O(k)$ incremental audits** via SQLite-backed Merkle Trees.
-* **Intelligence:** **AST-aware RAG** pipeline to ensure logic blocks remain intact during auditing.
+* **Performance:** $O(k)$ incremental audits via SQLite-backed Merkle Trees.
+* **Intelligence:** AST-aware RAG pipeline to keep logic intact during auditing.
 * **Stack:** `Python` `Ollama` `SQLite` `AST Parsing`.
 
 <a href="https://github.com/srivatsa-source/dockdesk">
-  <img src="[INSERT_DOCKDESK_SCREENSHOT_URL]" alt="DockDesk Preview" width="100%"/>
+  <img src="https://via.placeholder.com/1000x300/0D1117/FF6AC1?text=DOCKDESK+NEURAL+PREVIEW+IMAGE" alt="DockDesk Preview" width="100%"/>
 </a>
 
 <br/>
@@ -75,7 +75,7 @@
 * Focuses on building a **shared mental context** for reliable multi-agent workflows.
 
 <a href="https://github.com/srivatsa-source/uap">
-  <img src="[INSERT_UAP_SCREENSHOT_URL]" alt="UAP Preview" width="100%"/>
+  <img src="https://via.placeholder.com/1000x300/0D1117/9EFEFF?text=UAP+PROTOCOL+VISUALIZATION" alt="UAP Preview" width="100%"/>
 </a>
 
 <br/>
@@ -93,7 +93,7 @@
 * `Three.js` `WebGL` `React`.
 
 <a href="https://github.com/srivatsa-source/bloom">
-  <img src="[INSERT_BLOOM_SCREENSHOT_URL]" alt="Bloom Preview" width="100%"/>
+  <img src="https://via.placeholder.com/1000x300/0D1117/FF6AC1?text=BLOOM+WEBGL+RENDER" alt="Bloom Preview" width="100%"/>
 </a>
 
 <br/>
